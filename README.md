@@ -16,4 +16,4 @@ In python, we will implement a tree :
 - Using decorators : @decorator for declaring caching.
 - Each node has its own cache level and logical storage to benefit cache speed.
 
-Ins this moment, i think i could change to Java Implementation to benefit already implemented code.
+Ins this moment, i think i could change to Java Implementation to benefit already implemented code by others devs.
